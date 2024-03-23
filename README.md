@@ -21,10 +21,4 @@ Several SQL queries are crafted to extract meaningful insights from the dataset.
 - Determining the categories in which Cillian Murphy and Robert Downey Jr. won the award.
 - Retrieving the count of winners for each category from the Winners table.
 
-## LinkedIn Post
-A LinkedIn post is created to summarize the key insights derived from the SQL queries. It highlights notable findings from the Oscars 2024 dataset and encourages further discussion on data insights.
-
-## Contributing
-Contributions to this project are welcome! If you have any suggestions, improvements, or additional queries to enhance the analysis, feel free to submit a pull request.
-
 Thank you for exploring the Oscars 2024 SQL Case Study! Feel free to reach out with any questions or feedback.
